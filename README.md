@@ -1,5 +1,16 @@
 https://colab.research.google.com/drive/1NnH0QlhdY_fmTrRJjX3CJZZV7rRH-1Dz?usp=sharing
 
+| Model          | Train Acc | Train Loss | Val Acc    | Val Loss   | Precision  | Recall     | F1-Score   | AUC        |
+| -------------- | --------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+| MobileNetV2    | 96.70%    | 0.1167     | **97.70%** | **0.0596** | **98.47%** | **98.05%** | **97.88%** | **0.9989** |
+| EfficientNetB0 | 96.78%    | 0.1075     | 97.30%     | 0.0663     | 98.29%     | 97.71%     | 97.49%     | 0.9977     |
+| InceptionV3    | 88.75%    | 0.5236     | 94.50%     | 0.1500     | 94.87%     | 94.74%     | 94.64%     | 0.9961     |
+
+
+
+
+
+
 
 
 A. Model Performance
