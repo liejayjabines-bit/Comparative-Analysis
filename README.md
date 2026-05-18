@@ -1,8 +1,22 @@
-https://colab.research.google.com/drive/1NnH0QlhdY_fmTrRJjX3CJZZV7rRH-1Dz?usp=sharing
+
+
+https://colab.research.google.com/drive/13jUXW-4F7DXcfgOkXaHQfvoMZOs5t95f?usp=sharing
 
 | Model          | Train Acc | Train Loss | Val Acc    | Val Loss   | Precision  | Recall     | F1-Score   | AUC        |
 | -------------- | --------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 | MobileNetV2    | 96.70%    | 0.1167     | **97.70%** | **0.0596** | **98.47%** | **98.05%** | **97.88%** | **0.9989** |
+| EfficientNetB0 | 96.78%    | 0.1075     | 97.30%     | 0.0663     | 98.29%     | 97.71%     | 97.49%     | 0.9977     |
+| InceptionV3    | 88.75%    | 0.5236     | 94.50%     | 0.1500     | 94.87%     | 94.74%     | 94.64%     | 0.9961     |
+
+
+
+
+| Model                | Val Accuracy | Val Loss | Precision | Recall | F1-Score | AUC    | Notes                   |
+| -------------------- | ------------ | -------- | --------- | ------ | -------- | ------ | ----------------------- |
+| Teachable Machine    | 24.40%       | 6.2387   | 20.80%    | 24.19% | 22.00%   | 0.6338 | Label order mismatch    |
+| LW3 — Custom CNN     |  93.20%     0.2215 | 94.91%    | 93.18% | 92.89%   | 0.9644 | Baseline improved model |
+| LW4 — Enhanced CNN  | 96.70%       | 0.0644   | 97.80%    | 96.85% | 96.68%   | 0.9963 | Best custom CNN         |
+|MobileNetV2    | 96.70%    | 0.1167     | **97.70%** | **0.0596** | **98.47%** | **98.05%** | **97.88%** | **0.9989** |
 | EfficientNetB0 | 96.78%    | 0.1075     | 97.30%     | 0.0663     | 98.29%     | 97.71%     | 97.49%     | 0.9977     |
 | InceptionV3    | 88.75%    | 0.5236     | 94.50%     | 0.1500     | 94.87%     | 94.74%     | 94.64%     | 0.9961     |
 
