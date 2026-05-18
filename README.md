@@ -1,6 +1,9 @@
 
 
-https://colab.research.google.com/drive/13jUXW-4F7DXcfgOkXaHQfvoMZOs5t95f?usp=sharing
+Google collab:https://colab.research.google.com/drive/13jUXW-4F7DXcfgOkXaHQfvoMZOs5t95f?usp=sharing
+
+ google drive:https://drive.google.com/drive/folders/19u3NhrxKh345FJ0kFQbw44qKxnEXNnLj?usp=sharing
+
 
 | Model          | Train Acc | Train Loss | Val Acc    | Val Loss   | Precision  | Recall     | F1-Score   | AUC        |
 | -------------- | --------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
