@@ -25,7 +25,8 @@ Google collab:https://colab.research.google.com/drive/13jUXW-4F7DXcfgOkXaHQfvoMZ
 
 
 
-
+ALL 3 PRE-TRAINED MODELS
+<img width="1800" height="544" alt="image" src="https://github.com/user-attachments/assets/51d7746d-cdaa-40ea-95a5-7936097662d7" />
 
 
 
